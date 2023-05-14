@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-with-exel-word-files",
+  "version": "1.0.0",
+  "description": "deal with excl and word files via node js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SallamRady/NodeJS-With-Exel-Word-Files.git"
+  },
+  "keywords": [
+    "exel",
+    "word",
+    "node",
+    "express",
+    "js",
+    "sheet.js"
+  ],
+  "author": "Sallam Rady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SallamRady/NodeJS-With-Exel-Word-Files/issues"
+  },
+  "homepage": "https://github.com/SallamRady/NodeJS-With-Exel-Word-Files#readme",
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.3/xlsx-0.19.3.tgz"
+  }
+}
